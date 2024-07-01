@@ -1,7 +1,7 @@
 +++
 title = 'Lebenslauf'
 date = 2024-07-01T17:51:20+02:00
-draft = true
+draft = false
 weight = 1
 +++
 
