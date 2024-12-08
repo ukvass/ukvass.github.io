@@ -10,9 +10,15 @@ weight = 1
 Geburtsdatum, -ort: 22.11.1990, Belgorod / Russland\
 Familienstand: ledig, 1 Kind (2022, Betreuung gesichert)\
 Staatsangehörigkeit: Russisch\
-Einreise nach Deutschland: 03.2022
+Einreise nach Deutschland: 03.2022 
 
 ### Berufspraxis
+
+### 02.2024 – 10.2024   Besuch eines B2 Deutschkurses
+
+### 11.2023 – 01.2024   Besuch eines Kurses für Flüchtlinge und Migranten
+
+### 11.2022 – 9.2023   Besuch eines B1 Deutschkurses
 
 ### 06.2020 – 02.2022   Umzug in die Ukraine und Selbststudium in Richtung
 
