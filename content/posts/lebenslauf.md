@@ -40,7 +40,7 @@ Nachtclub ‘Shtakenschneider”, Nachtclub “Mosaique”, Bar “Popravka”, 
 
 - Gewährleistung der Sicherheit der Besucher
 
-- Vermeidung oder Lösung von Konfliktsituationen 
+- Lösung von Konfliktsituationen 
         
 ### 05.2015 – 11.2015   Verkäufer und Manager in einem Luxusgütergeschäft
 
@@ -96,7 +96,7 @@ in Belgorod / Russland
 
 ### Besondere Kenntnisse / Fähigkeiten
 
-- Sprachen: Russisch (Muttersprache), Englisch (etwa Intermediate+), Deutsch (B1)
+- Sprachen: Russisch (Muttersprache), Englisch (etwa upper intermediate), Deutsch (B2)
 
 ### EDV-Kentnisse:
 
@@ -112,8 +112,8 @@ Austausch von Wärmeleitpaste, Komponenten, Tastatur in Laptops.
 
 ### Hobbys:
 
-Retro-Computer und Elektronik, digitale Sicherheit und Datenschutz,
-Videospiele, Sport, Musik und Reisen
+Retro-Computer und Elektronik, digitale Sicherheit, Bücher, Sport, 
+Videospiele, Musik und Reisen
 
 ---
 
