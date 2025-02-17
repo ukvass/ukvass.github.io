@@ -22,90 +22,92 @@ Einreise nach Deutschland: 03.2022
 
 ### 06.2020 – 02.2022   Umzug in die Ukraine und Selbststudium in Richtung
 
-- Webprogrammierung, Python, Linux.
+- Webprogrammierung
+- Python
+- Linux
 
-### 12.2019 – 06.2020   Koch in einem veganen Cafe
+### 12.2019 – 06.2020   Koch in einem veganen Café
 
 “Avocado” Café, Belgorod
 
-- Zubereitung von Mahlzeiten
+- Zubereitung von Speisen
 
-- Servieren von Mahlzeiten an Kunden
+- Servieren von Speisen an Kunden
 
-### 12.2015 – 04.2019   Gesichtskontrolle und Sicherheit in Nachtclubs
+### 12.2015 – 04.2019   Türsteher und Sicherheitskraft in Nachtclubs
 
-Nachtclub ‘Shtakenschneider”, Nachtclub “Mosaique”, Bar “Popravka”, Bar “Hi-Hat”
+Nachtclub ‘Shtakenschneider”, Nachtclub “Mosaique”, Bar “Popravka”, Bar “Hi-Hat”, Sankt Petersburg
 
 - Durchführung von Gesichtskontrollen am Eingang
 
-- Gewährleistung der Sicherheit der Besucher
+- Gewährleistung der Sicherheit der Gäste
 
-- Lösung von Konfliktsituationen 
+- Konfliktlösung
         
 ### 05.2015 – 11.2015   Verkäufer und Manager in einem Luxusgütergeschäft
 
-Spblux, Sankt-Petersburg
+Spblux, Sankt Petersburg
 
-- Kommunikation mit Kunden
+- Kundenberatung und Verkauf
 
-- Verkauf von Waren
-
-- Kontakt mit Lieferanten und Reparaturbetrieben
+- Kommunikation mit Lieferanten und Reparaturbetrieben
 
 - Organisation von Kurierdiensten
 
-- Überwachung der Einhaltung von Sicherheitsmaßnahmen
+- Überwachung der Sicherheitsmaßnahmen
 
 ### 05.2014 – 05.2015    Kurier in einem Luxusgütergeschäft
 
-Spblux, Sankt-Petersburg
+Spblux, Sankt Petersburg
 
-- Lieferung der Waren
+- Zustellung von Waren
 
 ### 10.2013 – 04.2014    Verwalter eines Mini-Hotels
 
-Hostel “Meeting Place”, Sankt-Petersburg
+Hostel “Meeting Place”, Sankt Petersburg
 
-- Registrierung und Check-in/Check-out der Gäste
+- Empfang und Check-in/Check-out der Gäste
 
-- Entgegennahme von Anrufen und Online-Zimmerbuchungen
+- Annahme von Anrufen und Verwaltung von Online-Buchungen
 
-- Kontrolle der Ordnung im Hotel
+- Sicherstellung der Ordnung und Sauberkeit im Hotel
 
-### 05.2013 – 09.2013    Installateur von Außenwerbung,
+### 05.2013 – 09.2013    Installateur für Außenwerbung
 
 Werbeagentur "Air Fantasia", Belgorod
 
-- Installation (einschließlich Hochhäuser) und Anbringung von Außenwerbung
+- Montage von Außenwerbung (einschließlich Arbeiten an Hochhäusern)
 
 - Dekoration von Werbeveranstaltungen
 
 ### Studium
 
-09.2008 – 05.2013 Belgorod University of Cooperation, Economics & Law
+09.2008 – 05.2013 Belgorod University of Cooperation, Economics & Law, Belgorod, Russland
 
-in Belgorod / Russland
-
-Abschluss: Spezialität
+Abschluss: Diplom, Spezialist für Werbung
 
 ### Schulbildung
 
-09.1998 – 05.2008 Gymnasium, und seit 2004 Lyzeum Nummer 9 
-in Belgorod / Russland
-
+09.1998 – 05.2008 Gymnasium, ab 2004 Lyzeum Nr. 9, Belgorod, Russland
 
 ### Besondere Kenntnisse / Fähigkeiten
 
-- Sprachen: Russisch (Muttersprache), Englisch (etwa upper intermediate), Deutsch (B2)
+Sprachen: 
 
-### EDV-Kentnisse:
+- Russisch (Muttersprache)
 
-- Geübter Benutzer von Linux, Mac, Windows,
+- Englisch (etwa upper intermediate)
 
-- Grundkenntnisse in Python, Html, CSS, Git, Hugo
+- Deutsch (B2)
 
-- Kenntnisse in einfachen Computerreparaturen wie Reinigung, 
-Austausch von Wärmeleitpaste, Komponenten, Tastatur in Laptops.
+### EDV-Kenntnisse:
+
+- Sicherer Umgang mit Linux, Mac und Windows
+
+- Grundkenntnisse in Python, HTML, CSS, Git, Hugo
+
+- Erfahrung mit einfachen Computerreparaturen 
+(Reinigung, Austausch von Wärmeleitpaste, Komponenten- und Tastaturwechsel bei Laptops)
 
 ### Mobilität: 
 ÖPNV
