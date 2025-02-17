@@ -114,8 +114,21 @@ Sprachen:
 
 ### Hobbys:
 
-Retro-Computer und Elektronik, digitale Sicherheit, Bücher, Sport, 
-Videospiele, Musik und Reisen
+- Computer
+
+- Technik
+
+- Digitaler Datenschutz und Sicherheit
+
+- Bücher (Fiction und Non-Fiction)
+
+- Gewichtstraining, Kampfsport
+
+- Videospiele
+
+- Musik
+
+- Reisen
 
 ---
 
