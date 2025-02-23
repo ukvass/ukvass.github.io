@@ -9,6 +9,6 @@ defaultTheme = "auto"
 
 [[menu.main]]
 identifier = "github"
-name = "github"
+name = "github.com"
 url = "https://github.com/ukvass"
 weight = 30
