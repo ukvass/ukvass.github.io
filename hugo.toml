@@ -8,6 +8,7 @@ ShowReadingTime = true
 defaultTheme = "auto"
 
 [[menu.main]]
-socialIcons:
-    - name = "github"
-    - url = "https://github.com/ukvass"
+identifier = "github"
+name = "github"
+url = "https://github.com/ukvass"
+weight = 30
