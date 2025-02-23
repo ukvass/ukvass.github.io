@@ -6,14 +6,13 @@ theme = 'PaperMod'
 [params]
 ShowReadingTime = true
 ShowShareButtons = false
+enableEmoji = true
 defaultTheme = "auto"
 
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/ukvass"
+  [params.homeInfoParams]
+  Title = "Hello there! I'm Oleg.👋"
+  Content = "Welcome to my webpage. For now, there is nothing here but my humble resume, but perhaps in the future this site will be filled with my projects."
 
-[[menu.main]]
-identifier = "github"
-name = "github"
-url = "https://github.com/ukvass"
-weight = 30
+  [[params.social]]
+  name = "github"
+  url = "https://github.com/ukvass"

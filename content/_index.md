@@ -5,4 +5,3 @@ draft = false
 +++
 
 ![photo](/images/photo.jpg 'My photo')
-Hello! I am Oleg and this is my webpage. For now, there is nothing here but my humble resume, but perhaps in the future this site will be filled with my projects.

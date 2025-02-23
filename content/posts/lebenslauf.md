@@ -1,6 +1,6 @@
 +++
 title = 'Lebenslauf'
-date = 2024-07-01T17:51:20+02:00
+date = 2025-02-23T17:51:20+02:00
 draft = false
 weight = 1
 +++
@@ -116,7 +116,7 @@ Sprachen:
 
 - Computer
 
-- Technik
+- Freie und Open-Source-Software
 
 - Digitaler Datenschutz und Sicherheit
 
