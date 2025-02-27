@@ -16,7 +16,3 @@ defaultTheme = "auto"
   [[params.socialIcons]]
   name = "github"
   url = "https://github.com/ukvass"
-
-  [[params.socialIcons]]
-  name = "email"
-  url = "./posts/contacts/"
