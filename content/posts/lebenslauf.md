@@ -1,7 +1,7 @@
 +++
 title = 'Lebenslauf'
 date = 2025-02-23T17:51:20+02:00
-draft = false
+draft = true
 weight = 1
 +++
 
