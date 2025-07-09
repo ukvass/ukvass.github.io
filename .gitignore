@@ -1,0 +1,6 @@
+# Ignore Hugo build lock file
+.hugo_build.lock
+
+# Ignore Windows Zone Identifier files
+*.Zone.Identifier
+
