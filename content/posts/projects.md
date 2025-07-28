@@ -63,7 +63,7 @@ In late 2021 / early 2022, I completed the core of a web development course by Y
 I built a frontend project using HTML and CSS and had just started planning the JavaScript logic — but the war in Ukraine interrupted everything.  
 At the time, I was living in Kharkiv, and had to stop.
 
-[View the project on GitHub](https://github.com/ukvass/metalamp2)
+[View the project on GitHub](https://ukvass.github.io/metalamp2/)
 
 ---
 
