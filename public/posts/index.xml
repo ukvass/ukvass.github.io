@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Oleg&#39;s Webpage</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Oleg&#39;s Webpage</description>
+    <generator>Hugo -- 0.123.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/posts/projects/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/projects/</guid>
+      <description>🛠 My Projects Here’s a list of the small and not-so-small things I’ve built or explored during my self-taught journey into IT. Some are finished, some abandoned, all are part of the process.
+🎮 2D Space Invaders Game (Python + Pygame) A basic arcade shooter clone with working collision detection, shooting mechanics, and alien logic.
+Status: Prototype complete, no scoring system.
+Built to apply my early Python learning.
+💬 Django Forum (Local-only) A working forum with:</description>
+    </item>
+    <item>
+      <title>Lebenslauf</title>
+      <link>http://localhost:1313/posts/lebenslauf/</link>
+      <pubDate>Sun, 23 Feb 2025 17:51:20 +0200</pubDate>
+      <guid>http://localhost:1313/posts/lebenslauf/</guid>
+      <description>Persönliche Daten Geburtsdatum, -ort: 22.11.1990, Belgorod / Russland
+Familienstand: ledig, 1 Kind (2022, Betreuung gesichert)
+Staatsangehörigkeit: Russisch
+Einreise nach Deutschland: 03.2022
+Berufspraxis 02.2024 – 10.2024 Besuch eines B2 Deutschkurses 11.2023 – 01.2024 Besuch eines Kurses für Flüchtlinge und Migranten 11.2022 – 9.2023 Besuch eines B1 Deutschkurses 06.2020 – 02.2022 Umzug in die Ukraine und Selbststudium in Richtung Webprogrammierung Python Linux 12.2019 – 06.2020 Koch in einem veganen Café “Avocado” Café, Belgorod</description>
+    </item>
+    <item>
+      <title>My contact information</title>
+      <link>http://localhost:1313/posts/contacts/</link>
+      <pubDate>Sun, 23 Feb 2025 20:11:27 +0100</pubDate>
+      <guid>http://localhost:1313/posts/contacts/</guid>
+      <description>e-mail: olegbt@proton.me</description>
+    </item>
+  </channel>
+</rss>

@@ -10,8 +10,10 @@ enableEmoji = true
 defaultTheme = "auto"
 
   [params.homeInfoParams]
-  Title = "Hello there! I'm Oleg.👋"
-  Content = "Welcome to my webpage. For now, there is nothing here but my humble resume, but perhaps in the future this site will be filled with my projects."
+  Title = "Hi! I'm Oleg.👋"
+  Content = """Welcome to my webpage. I'm a self-taught developer learning Linux, Python, and modern web technologies.
+  On this site you’ll find the things I’ve built while teaching myself programming, infrastructure, and even a bit of cybersecurity.
+  I document what I do — from unfinished games to running local LLMs, because it all counts."""
 
   [[params.socialIcons]]
   name = "github"

@@ -2,7 +2,7 @@
 title = 'Lebenslauf'
 date = 2025-02-23T17:51:20+02:00
 draft = true
-weight = 1
+weight = 2
 +++
 
 ### Persönliche Daten
@@ -10,7 +10,7 @@ weight = 1
 Geburtsdatum, -ort: 22.11.1990, Belgorod / Russland\
 Familienstand: ledig, 1 Kind (2022, Betreuung gesichert)\
 Staatsangehörigkeit: Russisch\
-Einreise nach Deutschland: 03.2022 
+Einreise nach Deutschland: 03.2022
 
 ### Berufspraxis
 
