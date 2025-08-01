@@ -9,16 +9,32 @@ ShowShareButtons = false
 enableEmoji = true
 defaultTheme = "auto"
 
+  [[menu.main]]
+  name = "GitHub"
+  url = "https://github.com/ukvass"
+  weight = 2
+
+  [[menu.main]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/oleg-batrachenko-70b581377/"
+  weight = 3
+
+  [[menu.main]]
+  name = "E-mail"
+  url = "mailto:olegbt@proton.me"
+  weight = 1
+
+
   [params.homeInfoParams]
   Title = "Hi! I'm Oleg.👋"
   Content = """Welcome to my webpage. I'm a self-taught developer learning Linux, Python, and modern web technologies.
   On this site you’ll find the things I’ve built while teaching myself programming, infrastructure, and even a bit of cybersecurity.
   I document what I do — from unfinished games to running local LLMs, because it all counts."""
 
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/ukvass"
+#  [[params.socialIcons]]
+#  name = "github"
+#  url = "https://github.com/ukvass"
 
 #  [[params.socialIcons]]
-#  name = "email"
+#  name = "e-mail"
 #  url = "./posts/contacts/"
